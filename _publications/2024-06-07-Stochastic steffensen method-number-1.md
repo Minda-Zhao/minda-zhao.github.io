@@ -6,7 +6,7 @@ permalink: /publication/2024-06-07-Stochastic steffensen method-number-1
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-06-07
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://link.springer.com/article/10.1007/s10589-024-00583-7'
+paperurl: 'https://link.springer.com/article/10.1007/s10589-024-00583-7'
 citation: 'Zhao, Minda, Zehua Lai, and Lek-Heng Lim. "Stochastic steffensen method." Computational Optimization and Applications (2024): 1-32.'
 ---
 
